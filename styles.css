@@ -1,0 +1,19 @@
+html,
+body,
+.center {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #bc4e9c;
+  background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);
+  background: linear-gradient(to right, #f80759, #bc4e9c);
+}
+h1 {
+  font-family: Montserrat, sans-serif;
+  font-size: 120px;
+}
